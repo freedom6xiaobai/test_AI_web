@@ -1,0 +1,5 @@
+fastapi
+sqlalchemy
+pydantic
+jwt
+other-required-packages
